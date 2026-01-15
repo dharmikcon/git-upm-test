@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Convai/ConvaiXR.meta
+guid: a4406633dca3d0c47b441012594bac84
+|||||||| 44398e6:Assets/Convai/Editor/Configuration Window/Components/Sections/LongTermMemory.meta
+guid: bac50816875334f4cad40d61ee56ddb1
+========
+guid: 9272f31088c2da84c80ce5d451348f16
+>>>>>>>> main:Assets/Convai/Plugins/Client.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

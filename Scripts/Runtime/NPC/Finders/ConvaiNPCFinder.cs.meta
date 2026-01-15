@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Convai/Scripts/ConvaiNPCFinder.cs.meta
+guid: 3ed6f68749ffd6547a9aa6854eaa5757
+|||||||| 44398e6:Assets/Convai/Editor/Configuration Window/Components/ConvaiNavigationBarVE.cs.meta
+guid: 46399fc1ef41c494db301de833e79a4e
+========
+guid: 7aebe0f159ee70b4e9e663ceaf9934a8
+>>>>>>>> main:Assets/Convai/ConvaiXR/Scripts/XRFixedUIPositionHandler.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
